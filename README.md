@@ -2,7 +2,7 @@
 
 ## Overview of the project
 
-Using Jupiter notebook and pandas we created data series and data frames for the ride sharing data, we also produced publications with a visual story with complex findings using Matplotlib, which will help us communicate our analysis with less complexity, therefore the information presented will be easily absorbed and understood.
+Using Jupiter notebook and pandas we created data series and data frames for the ride sharing data, we also produced publications with a visual story with complex findings using Matplotlib, which will help us communicate our analysis with less complexity, therefore the information presented will be easier to deliver and understand.
 
 ## Results of our analysis
 
